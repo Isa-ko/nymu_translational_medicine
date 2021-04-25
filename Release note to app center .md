@@ -1,6 +1,6 @@
-# nymu_translational_medicine
-NYMU BMI translation of medicine stroke project (analysis center)
-Release note to app center                               Editor: Isa ko
+# NYMU BMI translation of medicine stroke project (analysis center) <br>
+Release note to app center <br>                              
+Editor: Isa ko <br>
 The aim of this file is to suggest how to design a questionnarire on the basis of our stroke model and also demonstrate how to use the equation given below in our app.
 
 ## Feature
