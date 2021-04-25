@@ -1,5 +1,5 @@
-# nymu_translational_medicine
-NYMU BMI translation of medicine stroke project (analysis center) <br>
+# NYMU BMI translation of medicine stroke project (analysis center) <br>
+Editor: Isa ko <br>
 The aim of this document is to introduce the files restored to data center :
 ## Model_data.csv
 This is the model training dataset, and the size of data is **(5720,11)**.
