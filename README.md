@@ -13,4 +13,7 @@ NYMU BMI translation of medicine stroke project (analysis center)
 6.	中風機率公式尋找 
 7.	閾值訂定 
 
-![flow chart](/nymu_translational_medicine/flow chart.png)
+<img src="./flow chart.png" width="70%" />
+
+
+> ### [詳細說明文件](https://docs.google.com/document/d/1CAoymLA6P4R9fYlS11W9Ly1xwDbIy5xS/edit?usp=sharing&ouid=112739604788007096460&rtpof=true&sd=true)
